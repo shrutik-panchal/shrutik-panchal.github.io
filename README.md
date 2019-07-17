@@ -1,1 +1,0 @@
-# [Shrutik Panchal - Professional Profile](https://shrutik-panchal.github.io)
