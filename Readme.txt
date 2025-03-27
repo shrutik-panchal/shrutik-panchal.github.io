@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Original Template for Porfolio Downloaded and Edited from:
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
