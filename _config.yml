@@ -13,7 +13,7 @@ keywords: ['seo', 'key', 'words']
 analytics:
   plausible:
     enabled: false
-    site_fqdn: 'your.site.fqdn'
+    site_fqdn: 'shrutik-panchal.github.io'
     script_source: 'https://plausible.io/js/script.js'
 
 # Styling

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: About Me
 ---
 
 ## About
@@ -24,4 +24,4 @@ Here's a new paragraph for you.
 - SEO Plugin
 
 ## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+Email me, [shrutik.panchal@outlook.com](mailto:shrutik.panchal@outlook.com).
