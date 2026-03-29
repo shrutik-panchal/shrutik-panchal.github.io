@@ -3,6 +3,13 @@ layout: page
 title: About
 permalink: /
 ---
+<style>
+  p { 
+      margin-bottom: 1.5em;
+      text-align: justify;
+      hyphens: auto;
+  }
+</style>
 
 Currently focused on applied AI in finance and actively preparing to transition into a PhD in Financial Machine Learning and Risk Strategy. My research interests lie at the intersection of predictive analytics, macroeconomic modelling, and GenAI. I aim to design robust, explainable AI-driven solutions that solve high-impact challenges in quantitative finance and actuarial risk.
 
