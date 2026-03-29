@@ -1,27 +1,11 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /
 ---
 
-## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+Currently focused on applied AI in finance and actively preparing to transition into a PhD in Financial Machine Learning and Risk Strategy. My research interests lie at the intersection of predictive analytics, macroeconomic modelling, and GenAI. I aim to design robust, explainable AI-driven solutions that solve high-impact challenges in quantitative finance and actuarial risk.
 
-## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
-<br>
-Here's a new paragraph for you.  
+Master’s in Information Technology (Data Analytics) with a thesis specialising in multimodal deep learning and feature extraction architectures. Oracle Certified in Generative AI and Vector Search.
 
-## Features
-- Pagination
-    - Posts
-    - Categories
-- Posts
-- RSS
-- Syntax highlighting
-- Basic Mobile Support
-- SEO Plugin
-
-## Contact
-Email me, [shrutik.panchal@outlook.com](mailto:shrutik.panchal@outlook.com).
+Previously led enterprise-scale operational strategy and execution at Woolworths, and delivered trend analysis and KPI modelling as a Market Research Analyst at Tata Consultancy Services (TCS). To deepen my domain expertise in financial risk assessment, I currently work independently within the health and life insurance sector.
