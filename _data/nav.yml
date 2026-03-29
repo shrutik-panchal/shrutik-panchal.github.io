@@ -1,8 +1,8 @@
 - name: About
   link: /
-- name: Posts
+- name: Projects
   link: /posts
-- name: Categories
+- name: Research
   link: /categories
 - name: Resume
   link: /resume
