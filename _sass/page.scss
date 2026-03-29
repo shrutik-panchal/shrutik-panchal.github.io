@@ -13,7 +13,6 @@ body {
 
 /* 03 Spacing */
 
-
 .padded {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -27,11 +26,11 @@ body {
 }
 
 div.main-content h2 {
-  padding-top: 15px;
+  padding-top: 5px;
   padding-bottom: 5px;
 }
 
-header h1, h5 {
+header h1, h2, h3, h4, h5 {
   display: inline;
 }
 
