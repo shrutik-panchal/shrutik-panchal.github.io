@@ -1,13 +1,15 @@
 # Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
-url: https://example.com
-author: tajacks
-timezone: America/Toronto
-timezone_short: ET
+title: "Shrutik Panchal | Data Researcher" 
+name: "Shrutik Panchal"
+description: "Data Researcher specialising in Financial AI, Risk Strategy, and Quantitative Analytics."
+url: "https://shrutik-panchal.github.io"
+author: "Shrutik Panchal"
+timezone: "Asia/Kolkata"
+timezone_short: "IST"
 
-# Keywords
-keywords: ['seo', 'key', 'words']
+# Keywords (These help recruiters and Google find your specific skills)
+keywords: ['Shrutik Panchal', 'Data Researcher', 'Financial AI', 'Machine Learning',
+           'Quantitative Analytics', 'InsurTech', 'Deep Learning', 'Python', 'SQL', 'R', 'Excel']
 
 # Analytics (Plausible requires sign-up)
 analytics:
@@ -45,4 +47,3 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-seo-tag
-

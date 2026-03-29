@@ -1,6 +1,8 @@
-- name: About Me
+- name: About
   link: /
 - name: Posts
   link: /posts
 - name: Categories
   link: /categories/
+- name: Resume
+  link: /  
