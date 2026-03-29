@@ -1,8 +1,8 @@
-- name: About
+- name: [About]
   link: /
-- name: Posts
+- name: [Posts]
   link: /posts
-- name: Categories
-  link: /categories/
-- name: Resume
-  link: /  
+- name: [Categories]
+  link: /categories
+- name: [Resume]
+  link: /resume 
