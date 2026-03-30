@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 <style>
-  p { 
+  p {
       margin-bottom: 1.5em;
       text-align: justify;
       hyphens: auto;
