@@ -3,13 +3,6 @@ layout: page
 title: Resume
 permalink: /resume
 ---
-<style>
-  p {
-      margin-bottom: 1.5em;
-      text-align: justify;
-      hyphens: auto;
-  }
-</style>
 
 ### Certifications
 
