@@ -1,8 +1,8 @@
 ---
 layout: post
 author: Shrutik
-title: Shrutik - Test Post
-categories: Test
+title: Multimodal Feature Extraction and Fusion (Master's Thesis)
+categories: ['Computer Vision', 'Multimodal', 'Neural Network', 'Python']
 gitlink: https://github.com/shrutik-panchal/masters-thesis-multimodal-feature-extraction-and-fusion
 ---
 
