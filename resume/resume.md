@@ -11,7 +11,7 @@ permalink: /resume
   }
 </style>
 
-## Summary  
+### Summary  
 
 I am a Data Researcher with expertise in machine learning, analytics, and AI-driven problem solving. My work brings together experience in market research, operational strategy, and quantitative modelling, with a growing focus on Financial AI, risk analytics, and applied research.  
   
@@ -20,11 +20,10 @@ I am a Data Researcher with expertise in machine learning, analytics, and AI-dri
 - *Oracle AI Vector Search Professional, Oracle University, Oct 2025*  
 - *Oracle Cloud Infrastructure (OCI) Generative AI Professional, Oracle University, Oct 2025*  
 - *Oracle Cloud Infrastructure (OCI) AI Foundations Associate, Oracle University, Oct 2025*  
-  
-### Education  
-
 <br>
 
+### Education  
+  
 **Master's of Information Technology (Data Analytics)**  
 *Deakin Universiry, Melbourne, Australia* | Jul 2018 - Jun 2020  
   
@@ -32,17 +31,14 @@ I am a Data Researcher with expertise in machine learning, analytics, and AI-dri
 *The Maharaja Sayajirao University of Baroda, Vadodara, India* | Jun 2010 - May 2013  
   
 ### Work Experience  
-
-<br>
-
+  
 **Independent Health & Life Insurance Consultant**  
 *ICICI Lombard & Axis Max Life Insurance* | Feb 2025 - Present  
 
 - Provide personalized insurance advisory services by evaluating client protection needs and recommending suitable health and life insurance solutions.  
 - Simplify complex policy terms, coverage options, and claim-related details to help clients choose plans aligned with their financial priorities.  
 - Manage the full client lifecycle from prospecting and consultation to documentation, policy issuance, renewals, and relationship management.  
-<br>
-
+  
 **Operations Lead (Duty Manager)**  
 *Woolworths Group* | Feb 2020 - Feb 2025  
 
