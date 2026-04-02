@@ -3,10 +3,17 @@ layout: page
 title: Resume
 permalink: /resume
 ---
-  
+<style>
+  p {
+      margin-bottom: 1.5em;
+      text-align: justify;
+      hyphens: auto;
+  }
+</style>
+
 ### Certification  
 <br>
-
+  
 - *Oracle AI Vector Search Professional, Oracle University,* | Oct 2025  
 - *Oracle Cloud Infrastructure (OCI) Generative AI Professional, Oracle University,* | Oct 2025  
 - *Oracle Cloud Infrastructure (OCI) AI Foundations Associate, Oracle University,* | Oct 2025  
