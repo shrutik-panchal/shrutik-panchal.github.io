@@ -10,8 +10,10 @@ pagination:
 {% for post in site.posts %}
 <span class="post-item">
     <span class="mobile-hide"> {{ post.date | date: '%Y-%m-%d' }} >> </span>
-    <a href="{{ post.gitlink }}">{{ post.title }}</a>
-    <span class="float-right mobile-hide">{{ post.categories }}</span>
+    <span class="float-left">{{ post.title }}</span>
+    <br />
+    <span class="float-left mobile-hide">{{ post.categories }}</span>
+    <a href="{{ post.gitlink }}">[Read Me...]</a>
 </span>
 {% endfor %}
 
