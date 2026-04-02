@@ -5,21 +5,21 @@ permalink: /resume
 ---
 <style>
   p {
-      margin-bottom: 1.25em;
+      margin-bottom: 1.5em;
       text-align: justify;
       hyphens: auto;
   }
 </style>
 
 ### Summary  
-
+  
 I am a Data Researcher with expertise in machine learning, analytics, and AI-driven problem solving. My work brings together experience in market research, operational strategy, and quantitative modelling, with a growing focus on Financial AI, risk analytics, and applied research.  
   
 ### Certification  
   
-- *Oracle AI Vector Search Professional, Oracle University | Oct 2025*  
-- *Oracle Cloud Infrastructure (OCI) Generative AI Professional, Oracle University | Oct 2025*  
-- *Oracle Cloud Infrastructure (OCI) AI Foundations Associate, Oracle University | Oct 2025*  
+- *Oracle AI Vector Search Professional, Oracle University, Oct 2025*  
+- *Oracle Cloud Infrastructure (OCI) Generative AI Professional, Oracle University, Oct 2025*  
+- *Oracle Cloud Infrastructure (OCI) AI Foundations Associate, Oracle University, Oct 2025*  
   
 ### Education  
   
