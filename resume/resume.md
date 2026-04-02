@@ -19,7 +19,8 @@ I am a Data Researcher with expertise in machine learning, analytics, and AI-dri
   
 - *Oracle AI Vector Search Professional, Oracle University, Oct 2025*  
 - *Oracle Cloud Infrastructure (OCI) Generative AI Professional, Oracle University, Oct 2025*  
-- *Oracle Cloud Infrastructure (OCI) AI Foundations Associate, Oracle University, Oct 2025*  
+- *OCI AI Foundations Associate, Oracle University, Oct 2025*  
+<br>
   
 ### Education  
   
