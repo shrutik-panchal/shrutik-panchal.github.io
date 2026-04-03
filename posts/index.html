@@ -21,14 +21,11 @@ pagination:
     <!-- 'padding-left: 14ch' perfectly aligns this line under the title -->
     <div style="margin-top: 0.3em; padding-left: 14ch;">
         <span class="float-left mobile-hide"><i>{{ post.categories | join: ', ' }}</i></span>
-        [<a href="{{ post.gitlink }}" class="float-right">Read More...</a>]
+        <a href="{{ post.gitlink }}" class="float-right">Read More..</a>
     </div>
 </div>
-
-
-
-
 {% endfor %}
+
 
 <div class="post-nav">
 {% if site.total_pages > 1 %}
