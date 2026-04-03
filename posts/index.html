@@ -6,13 +6,28 @@ pagination:
     enabled: true
 ---
 
-<h2>Posts</h2>
+<h3>Projects</h3>
 {% for post in site.posts %}
-<span class="post-item">
-    <span class="mobile-hide"> {{ post.date | date: '%Y-%m-%d' }} >> </span>
-    <a href="{{ post.gitlink }}">{{ post.title }}</a>
-    <span class="float-right mobile-hide">{{ post.categories }}</span>
-</span>
+
+<div class="post-item" style="margin-bottom: 1.5em;">
+    
+    <!-- First line: Date >> Project name -->
+    <div>
+        <span class="mobile-hide">{{ post.date | date: '%Y-%m-%d' }} >> </span>
+        <span>{{ post.title }}</span>
+    </div>
+    
+    <!-- Second line: Categories and [Read More...] -->
+    <!-- 'padding-left: 14ch' perfectly aligns this line under the title -->
+    <div style="margin-top: 0.3em; padding-left: 14ch;">
+        <span class="float-left mobile-hide">{{ post.categories | join: ', ' }}</span>
+        <a href="{{ post.gitlink }}" class="float-right">[Read More...]</a>
+    </div>
+</div>
+
+
+
+
 {% endfor %}
 
 <div class="post-nav">
