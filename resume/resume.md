@@ -20,7 +20,6 @@ I am a Data Researcher with expertise in machine learning, analytics, and AI-dri
 - *Oracle AI Vector Search Professional, Oracle University, Oct 2025*  
 - *Oracle Cloud Infrastructure (OCI) Generative AI Professional, Oracle University, Oct 2025*  
 - *OCI AI Foundations Associate, Oracle University, Oct 2025*  
-
 <br>
   
 ### Education  
@@ -42,7 +41,6 @@ Undertook this role deliberately to build ground-level domain expertise in actua
 - Analyse health demographics and financial risk data to match clients with optimised coverage, applying structured reasoning across incomplete and often messy real-world data.
 - Observed recurring limitations in how traditional underwriting models handle edge cases, non-standard risk profiles, and dynamic life-stage changes — areas where predictive modelling and machine learning remain underexplored in the Indian market.
 - This exposure directly informs my research interests in explainable AI for insurance risk assessment, premium prediction modelling, and AI-driven personalisation in InsurTech and FinTech systems.
-
 <br>
   
 **Operations Lead (Duty Manager)**  
@@ -54,7 +52,6 @@ Led daily operations at a high-volume retail site, regularly using operational d
 - Interpreted sales and staffing data to spot patterns and anomalies, using those insights to improve scheduling decisions and reduce inefficiencies.
 - Tracked inventory data across replenishment cycles, identifying discrepancies and working with supply teams to resolve stock accuracy issues.
 - Applied data-informed thinking to operational adjustments, measuring their effect on stock turnover, product availability, and team productivity.  
-
 <br>
   
 **Market Research Analyst**  
@@ -68,5 +65,4 @@ Worked on multi-country research studies across the APAC region, delivering data
 - Built internal dashboards and models in Excel to visualise trends and track critical metrics across departments.
 - Translated research findings into actionable recommendations for project managers and senior stakeholders, aligning outputs with broader organisational goals.
 - Contributed to process improvements that reduced research turnaround time and improved operational efficiency by 30%.  
-
 <br>
