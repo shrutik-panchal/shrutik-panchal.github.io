@@ -2,7 +2,7 @@
 layout: post
 author: Shrutik
 title: Energy Usage Analysis and Prediction
-categories: ["Fuzzy Logic Modeling", "R"]
+categories: ["Fuzzy Logic", "R"]
 gitlink: https://github.com/shrutik-panchal/energy-usage-analysis-and-prediction
 ---
   
