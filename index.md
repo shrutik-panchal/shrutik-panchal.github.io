@@ -11,7 +11,7 @@ permalink: /
   }
 </style>
 
-Currently focused on applied AI in finance and actively preparing to transition into a PhD in Financial Machine Learning and Risk Strategy. My research interests lie at the intersection of predictive analytics, macroeconomic modelling, and GenAI. I aim to design robust, explainable AI-driven solutions that solve high-impact challenges in quantitative finance and actuarial risk.
+Focused on applied machine learning in finance, with research interests spanning quantitative risk modelling, portfolio optimisation, and explainable AI. Currently building independent research projects at the intersection of financial data science and interpretable AI, with the goal of pursuing a PhD in Financial Machine Learning.
 
 Master’s in Information Technology (Data Analytics) with a thesis specialising in multimodal deep learning and feature extraction architectures. Oracle Certified in Generative AI and Vector Search.
 
