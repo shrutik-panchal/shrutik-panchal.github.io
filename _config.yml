@@ -1,15 +1,15 @@
 # Site Specific Configuration
-title: "Shrutik Panchal - Data Researcher" 
+title: "Shrutik Panchal | Financial AI & Machine Learning Researcher"
 name: "Shrutik Panchal"
-description: "Data Researcher specialising in Financial AI, Risk Strategy, and Quantitative Analytics."
+description: "Financial AI & Machine Learning Researcher specializing in Quantitative Analytics, Explainable AI, Risk Analytics, and Python-based financial intelligence."
 url: "https://shrutik-panchal.github.io"
 author: "Shrutik Panchal"
 timezone: "Asia/Kolkata"
 timezone_short: "IST"
 
 # Keywords (These help recruiters and Google find your specific skills)
-keywords: ['Shrutik Panchal', 'Data Researcher', 'Financial AI', 'Machine Learning',
-           'Quantitative Analytics', 'InsurTech', 'Deep Learning', 'Python', 'SQL', 'R', 'Excel']
+keywords: ['Shrutik Panchal', 'Financial AI', 'Financial Machine Learning', 'Quantitative Finance', 'Quantitative Analytics', 'Machine Learning',
+           'Explainable AI', 'Risk Analytics', 'Time Series Forecasting', 'Financial Research', 'Python', 'SQL', 'R']
 
 # Analytics (Plausible requires sign-up)
 analytics:
